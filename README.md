@@ -17,3 +17,6 @@ Ethernet Port and Cable
    
 ## How to Implement this in your Projects
    My project is just one of many applications that can be done with the ethernet cable. My intention was to create a simple script that could be easily understood and manipulated to fit any project. Using the ethernet connection, you can connect two Raspberry Pis like I have to share data over a network, or you can get a shield for an arduino and create a network with two different chips. Another aspect I implemented in my project was the ability to terminate a client and keep the server socket open. By doing this, you could have multiple ethernet devices over a network and pick and choose which programs you would like to be running and when to end them.
+   
+#### Sources
+Socket Programming in Pythong - By Nathan Jennings (https://realpython.com/python-sockets/)
