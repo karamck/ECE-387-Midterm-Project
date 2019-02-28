@@ -13,4 +13,4 @@ Ethernet Port and Cable
    
    Once both Raspberry Pis have been set up with static IP addresses, it is time to start creating the network. The method I chose to create my network with was using the socket module that is native to python. Socket servers are a server to client network where the server opens a port and binds to the first client which attempts to connect to that port. Think an outlet on the wall, it is available until something is plugged into it and nothing else can access it until the plug is removed. In this project, I designated one Raspberry Pi as the server and the other as the client. 
    
-   The server pi 
+   The server pi instructions are under the [Programming the Server](Programming-the-Server.md) module and the 
