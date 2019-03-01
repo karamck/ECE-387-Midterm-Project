@@ -3,7 +3,7 @@ Setting up static IP addresses on your Raspberry Pi device is very simple. All t
 
 interface eth0
 
-static ip_address=192.168.X.Y
+static ip_address=192.168.X.Y <Enter>
 static routers=192.168.X.1
 static domain_name_servers=192.168.X.1
 
