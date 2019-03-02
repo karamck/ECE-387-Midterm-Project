@@ -1,5 +1,5 @@
 # How to Program the Server
-This module will talk you through programming your server pi. I suggest dowloading the full file and running it if you are interested in using my project, as I will mainly discuss the important lines that are crucial to creating your own application. I also recommend that you use a sticky note to mark which pi is your server and its IP address. 
+This module will talk you through programming your server pi. I suggest dowloading the full file and running it if you are interested in using my project, as I will mainly discuss the important lines that are crucial to creating your own application. I also recommend that you use a sticky note to mark which pi is your server and its IP address. Follow along with the project-mid-server.py file.
 
 The first thing you must do when creating your server is to import the socket library, and the sys library is also important if you choose to use command line arguments.  
 The Host varialbe on line 10 should contain the IP address of the server because it will host any client that tries to connect.  
