@@ -22,3 +22,4 @@ Ethernet Port and Cable
    
 #### Sources
 Socket Programming in Pythong - By Nathan Jennings (https://realpython.com/python-sockets/)
+Networking Lessons - By Raspberry Pi Foundation (https://github.com/raspberrypilearning/networking-lessons)
